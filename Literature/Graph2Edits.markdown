@@ -1,6 +1,8 @@
 # Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing
 
-Weihe Zhong, Ziduo Yang, and Calvin Yu-Chian Chen. Nature Communications, 2023.
+Zhong, W., Yang, Z. & Chen, C.YC. Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing. Nat Commun 14, 3009 (2023). 
 
-GitHub: *[https://github.com/Jamson-Zhong/Graph2Edits](https://github.com/Jamson-Zhong/Graph2Edits)*
+DOI: https://doi.org/10.1038/s41467-023-38851-5
+
+GitHub: https://github.com/Jamson-Zhong/Graph2Edits
 
