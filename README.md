@@ -2,6 +2,11 @@
 
 ## Literature
 
+### 2024
+* (MEEA*, Commun Chem) Efficient retrosynthetic planning with MCTS exploration enhanced A* search.
+[[Page](./Literature/MEEA*.markdown)]
+
+
 ### 2023
 * (Graph2Edit, Nat Commun) Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing.
   [[Page](./Literature/Graph2Edits.markdown)]
