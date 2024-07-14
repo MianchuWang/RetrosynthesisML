@@ -22,7 +22,10 @@ An adjacency matrix represents a graph, where atoms are represented by nodes and
 
 ### 1. Selection-based methods
 
-* Reactant selection
+They formulate retrosynthesis as a selection problem by predefining reactant or reaction template candidates.
+
+* **Reactant selection**: select reactants from the molecule candidates by calculating the matching score between the product and the possible reactant.
+  - Excellent performance but with impractical assumption on reactant candidates. 
 * Template selection
 * Semi-template selection
 * Template-free selection
