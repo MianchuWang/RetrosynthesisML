@@ -1,10 +1,16 @@
 # Retrosynthesis
 
+## Reviews
+
+* (2024, WIREs Comput Mol Sci) Recent advances in deep learning for retrosynthesis.
+  [[Page](./Literature/review2024recentadvances.markdown)]
+
 ## Literature
 
 ### 2024
 * (MEEA*, Commun Chem) Efficient retrosynthetic planning with MCTS exploration enhanced A* search.
 [[Page](./Literature/MEEA*.markdown)]
+  - A* with exploration from MCTS.
 
 
 ### 2023
