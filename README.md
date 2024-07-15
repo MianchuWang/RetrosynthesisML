@@ -12,11 +12,14 @@
 [[Page](./Literature/zhao2024efficient.markdown)]
   - A* search with exploration from MCTS.
 
-
 ### 2023
 * (Graph2Edit, Nat Commun) Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing.
   [[Page](./Literature/zhong2023retrosynthesis.markdown)]
   - Semi-template retrosynthesis with edit vocabulary and end-to-end architecture.
+
+### 2022
+* (R-SMILES, Chem Sci) Root-aligned SMILES: a tight representation for chemical reaction prediction.
+[[Page](./Literature/zhong2022rootaligned.markdown)]
 
 ### 2021
 * (GraphRetro, NeurIPS) Learning graph models for retrosynthesis prediction. 
@@ -32,4 +35,5 @@
 * USPTO-50k [[Page](./Datasets/USPTO-50k.markdown)]
 
 ## Tools
+* SMILES tutorial [[Link](https://chemicbook.com/2021/02/13/smiles-strings-explained-for-beginners-part-1.html)]
 * rdkit-tutorials [[Github](https://github.com/rdkit/rdkit-tutorials?tab=License-1-ov-file)]
