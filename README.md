@@ -10,6 +10,7 @@
 ### 2024
 * (ReSynZ, J Chem Theory Comput) Retrosynthesis Zero: self-improving global synthesis planning using reinforcement learning.
   [[Page](./Literature/guo2024retrosynthesis.markdown)]
+  - Policy improvement with MCTS suggested actions.
 * (MEEA*, Commun Chem) Efficient retrosynthetic planning with MCTS exploration enhanced A* search.
 [[Page](./Literature/zhao2024efficient.markdown)]
   - A* search with exploration from MCTS.
