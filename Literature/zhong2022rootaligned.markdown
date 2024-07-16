@@ -1,4 +1,4 @@
-# Root-aligned SMILES: a tight representation for chemical reaction prediction.
+# Root-aligned SMILES: a tight representation for chemical reaction prediction
 
 Zhong, Z., Song, J., Feng, Z., Liu, T., Jia, L., Yao, S., … Song, M. (2022). Root-aligned SMILES: a tight representation for chemical reaction prediction. Chem. Sci., 13, 9023–9034.
 

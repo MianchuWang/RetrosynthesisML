@@ -8,6 +8,8 @@
 ## Literature
 
 ### 2024
+* (ReSynZ, J Chem Theory Comput) Retrosynthesis Zero: self-improving global synthesis planning using reinforcement learning.
+  [[Page](./Literature/guo2024retrosynthesis.markdown)]
 * (MEEA*, Commun Chem) Efficient retrosynthetic planning with MCTS exploration enhanced A* search.
 [[Page](./Literature/zhao2024efficient.markdown)]
   - A* search with exploration from MCTS.
@@ -20,6 +22,7 @@
 ### 2022
 * (R-SMILES, Chem Sci) Root-aligned SMILES: a tight representation for chemical reaction prediction.
 [[Page](./Literature/zhong2022rootaligned.markdown)]
+  - Molecule representation with minimal edit distance between product and reactants.
 
 ### 2021
 * (GraphRetro, NeurIPS) Learning graph models for retrosynthesis prediction. 
@@ -33,6 +36,8 @@
 
 ## Datasets
 * USPTO-50k [[Page](./Datasets/USPTO-50k.markdown)]
+* USPTO-MIT
+* USPTO-FULL
 
 ## Tools
 * SMILES tutorial [[Link](https://chemicbook.com/2021/02/13/smiles-strings-explained-for-beginners-part-1.html)]
