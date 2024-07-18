@@ -2,7 +2,7 @@
 
 Somnath, V. R., Bunne, C., Coley, C., Krause, A., & Barzilay, R. (2021). Learning Graph Models for Retrosynthesis Prediction. Advances in Neural Information Processing Systems (Vol. 34, pp. 9405–9415).
 
-DOI: https://proceedings.neurips.cc/paper/2021/hash/4e2a6330465c8ffcaa696a5a16639176-Abstract.html
+PDF: https://proceedings.neurips.cc/paper/2021/hash/4e2a6330465c8ffcaa696a5a16639176-Abstract.html
 
 GitHub: https://github.com/vsomnath/graphretro (MIT License)
 

@@ -33,6 +33,10 @@
 [[Page](./Literature/kim2021selfimproved.markdown)]
   -  Backward reaction model learned by imitating RETRO*-generated realistic data.
 
+### 2020
+* (Retro*, ICML) Retro*: learning retrosynthetic planning with neural guided A* search.
+[[Page](./Literature/chen2020retro.markdown)]
+
 ### 2019
 * (Schreck, ACS Cent Sci) Learning retrosynthetic planning through simulated experience. 
 [[Page](./Literature/schreck2019learning.markdown)]
