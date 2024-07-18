@@ -29,12 +29,12 @@
 * (GraphRetro, NeurIPS) Learning graph models for retrosynthesis prediction. 
 [[Page](./Literature/somnath2021learning.markdown)]
   - Semi-template retrosynthesis with subgraph vocabulary.
-* (ICML) Self-improving retrosynthesis planning.
+* (Kim, ICML) Self-improving retrosynthesis planning.
 [[Page](./Literature/kim2021selfimproved.markdown)]
   -  Backward reaction model learned by imitating RETRO*-generated realistic data.
 
 ### 2019
-* (ACS Cent Sci) Learning retrosynthetic planning through simulated experience. 
+* (Schreck, ACS Cent Sci) Learning retrosynthetic planning through simulated experience. 
 [[Page](./Literature/schreck2019learning.markdown)]
   - Retrosynthesis with deep reinforcement learning.
 
