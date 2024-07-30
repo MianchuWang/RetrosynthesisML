@@ -8,6 +8,9 @@
 ## Literature
 
 ### 2024
+
+* (Digital Discovery) Investigating the reliability and interpretability of machine learning frameworks for chemical retrosynthesis.
+  [[Page](./Literature/hastedt2024investigating.markdown)]
 * (ReSynZ, J Chem Theory Comput) Retrosynthesis Zero: self-improving global synthesis planning using reinforcement learning.
   [[Page](./Literature/guo2024retrosynthesis.markdown)]
   - Policy improvement with MCTS suggested actions.
@@ -36,6 +39,7 @@
 ### 2020
 * (Retro*, ICML) Retro*: learning retrosynthetic planning with neural guided A* search.
 [[Page](./Literature/chen2020retro.markdown)]
+  - Pioneer work in retrosynthetic planning; search with a value function.
 
 ### 2019
 * (Schreck, ACS Cent Sci) Learning retrosynthetic planning through simulated experience. 
