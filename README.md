@@ -8,7 +8,7 @@
 ## Literature
 
 ### 2024
-
+* (EditRetro, Nat Commun) Retrosynthesis prediction with an iterative string editing model. [[Page](./Literature/han2024retrosynthesis.markdown)] 
 * (Digital Discovery) Investigating the reliability and interpretability of machine learning frameworks for chemical retrosynthesis.
   [[Page](./Literature/hastedt2024investigating.markdown)]
 * (ReSynZ, J Chem Theory Comput) Retrosynthesis Zero: self-improving global synthesis planning using reinforcement learning.
@@ -51,6 +51,6 @@
 * USPTO-MIT
 * USPTO-FULL
 
-## Tools
+## Tutorials
 * SMILES tutorial [[Link](https://chemicbook.com/2021/02/13/smiles-strings-explained-for-beginners-part-1.html)]
 * rdkit-tutorials [[Github](https://github.com/rdkit/rdkit-tutorials?tab=License-1-ov-file)]
