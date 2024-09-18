@@ -8,6 +8,7 @@
 ## Literature
 
 ### 2024
+* (Digital Discovery) Models matter: the impact of single-step retrosynthesis on synthesis planning. [[Link](https://doi.org/10.1039/d3dd00252g)]
 * (EditRetro, Nat Commun) Retrosynthesis prediction with an iterative string editing model. [[Page](./Literature/han2024retrosynthesis.markdown)] 
 * (Digital Discovery) Investigating the reliability and interpretability of machine learning frameworks for chemical retrosynthesis.
   [[Page](./Literature/hastedt2024investigating.markdown)]
