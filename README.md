@@ -56,3 +56,4 @@
 ## Tutorials
 * SMILES tutorial [[Link](https://chemicbook.com/2021/02/13/smiles-strings-explained-for-beginners-part-1.html)]
 * rdkit-tutorials [[Github](https://github.com/rdkit/rdkit-tutorials?tab=License-1-ov-file)]
+* Graph neural networks ([Link1](https://distill.pub/2021/gnn-intro/), [Link2](https://distill.pub/2021/understanding-gnns/))
